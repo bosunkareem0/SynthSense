@@ -7,3 +7,5 @@ N
 contracts/iot-integration.clar,d/5/d53452ec45c20956d85d24ae67d8a59474ad4599
 M
 tests/iot-integration.test.ts,c/b/cb7c60aba045aa478fec259a880227d84f9a1437
+P
+ contracts/sense-marketplace.clar,9/5/95e655cf62fd548394cfe720b68aa35218538341
