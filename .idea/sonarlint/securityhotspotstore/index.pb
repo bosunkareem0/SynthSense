@@ -13,3 +13,5 @@ O
 tests/sense-marketplace.test.ts,7/5/75600c95a113730f13637cfd8438f40c7ef4e2ec
 R
 "contracts/synthetic-sense-nft.clar,7/c/7cd88f0fb45a7678c6c8cfc055c83bc624ee0656
+Q
+!tests/synthetic-sense-nft.test.ts,e/5/e55de9b147cb8b61f4f2c7ead491a9f545176898
