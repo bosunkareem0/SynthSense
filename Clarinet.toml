@@ -1,0 +1,34 @@
+[project]
+name = 'SynthSense'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.collaborative-development]
+path = 'contracts/collaborative-development.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.iot-integration]
+path = 'contracts/iot-integration.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.sense-marketplace]
+path = 'contracts/sense-marketplace.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.synthetic-sense-nft]
+path = 'contracts/synthetic-sense-nft.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
